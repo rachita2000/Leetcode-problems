@@ -24,8 +24,6 @@ public class MergeIntervals {
          }
          res.add(new int[]{start,end}); 
          
-     
-     
      return res.toArray(new int[0][]); 
 	}
 }
